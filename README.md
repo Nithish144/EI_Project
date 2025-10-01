@@ -5,8 +5,11 @@ This repository contains solutions for exercises and a mini project completed as
 Submission Details  
 ------------------  
 Name: Nithish Kumar NC
+
 Email: nithishkumarnc2005@gmail.com  
+
 Roll No: 225112
+
 Department: Information Technology  
 
 Exercise 1 – Design Patterns  
